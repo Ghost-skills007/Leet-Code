@@ -6,7 +6,8 @@ public:
             absents += (c == 'A');
             lates = (c == 'L') ? lates + 1 : 0;
             
-            if (absents >= 2 || lates >= 3) return false;
+            if (absents >= 2 || lates >= 3) 
+            return false;
         }
         return true;
     }
