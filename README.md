@@ -25,6 +25,7 @@ Leet-Code
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush850/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ankush850/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0551-student-attendance-record-i](https://github.com/ankush850/Leet-Code/tree/master/0551-student-attendance-record-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankush850/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -46,10 +47,12 @@ Leet-Code
 | [0002-add-two-numbers](https://github.com/ankush850/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush850/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +98,8 @@ Leet-Code
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
