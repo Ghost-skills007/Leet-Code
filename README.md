@@ -52,6 +52,7 @@ Leet-Code
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Leet-Code
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Leet-Code
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
