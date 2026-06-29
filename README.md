@@ -8,6 +8,7 @@ Leet-Code
 | [0001-two-sum](https://github.com/ankush850/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ankush850/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankush850/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -50,6 +51,7 @@ Leet-Code
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
