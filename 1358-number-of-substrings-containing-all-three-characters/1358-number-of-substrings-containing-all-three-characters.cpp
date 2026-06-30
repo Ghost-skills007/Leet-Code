@@ -1,17 +1,20 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        vector<int> lastPos(3, -1);
-        int count = 0;
+        vector<int> count(3, 0);
+        int left = 0, totalSubstrings = 0;
+        int n = s.length();
         
-        for (int right = 0; right < s.length(); right++) {
-            lastPos[s[right] - 'a'] = right;
+        for (int right = 0; right < n; right++) {
+            count[s[right] - 'a']++;
             
-            if (lastPos[0] != -1 && lastPos[1] != -1 && lastPos[2] != -1) {
-                count += (min({lastPos[0], lastPos[1], lastPos[2]}) + 1);
+            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
+                totalSubstrings += (n - right);
+                count[s[left] - 'a']--;
+                left++;
             }
         }
         
-        return count;
+        return totalSubstrings;
     }
 };
