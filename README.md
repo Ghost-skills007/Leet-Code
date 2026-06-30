@@ -40,6 +40,7 @@ Leet-Code
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankush850/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ Leet-Code
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Leet-Code
 | ------- |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Bit Manipulation
 |  |
 | ------- |
