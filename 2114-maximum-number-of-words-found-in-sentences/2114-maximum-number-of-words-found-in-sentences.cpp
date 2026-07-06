@@ -1,22 +1,22 @@
 class Solution {
 public:
     int mostWordsFound(vector<string>& sentences) {
-        int maxWords = 0;
+        int max = 0;
         
         for (const string& sentence : sentences) {
-            int currentWordCount = 1; 
+            int currentWord = 1; 
             
             for (char c : sentence) {
                 if (c == ' ') {
-                    currentWordCount++;
+                    currentWord++;
                 }
             }
             
-            if (currentWordCount > maxWords) {
-                maxWords = currentWordCount;
+            if (currentWord > max) {
+                max= currentWord;
             }
         }
         
-        return maxWords;
+        return max;
     }
 };
