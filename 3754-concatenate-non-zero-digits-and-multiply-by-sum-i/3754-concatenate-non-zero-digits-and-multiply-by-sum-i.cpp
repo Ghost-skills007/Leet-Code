@@ -11,15 +11,10 @@ public:
         for (char c : s) {
             if (c != '0') {
                 int digit = c - '0'; 
-                
-                
                 x = (x * 10) + digit;
-                
-               
                 sum += digit;
             }
-        }
-        
+        } 
         return x * sum;
     }
 };
