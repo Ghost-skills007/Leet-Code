@@ -204,6 +204,7 @@ Leet-Code
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -217,14 +218,17 @@ Leet-Code
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
 |  |
 | ------- |
