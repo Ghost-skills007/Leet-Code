@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
+        if (arr.empty()) return {};
+
         vector<int> sortedArr = arr;
         sort(sortedArr.begin(), sortedArr.end());
         
@@ -17,5 +19,4 @@ public:
         
         return arr;
     }
-    
 };
