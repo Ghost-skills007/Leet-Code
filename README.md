@@ -22,6 +22,7 @@ Leet-Code
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ankush850/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ Leet-Code
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
@@ -206,6 +208,7 @@ Leet-Code
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ankush850/Leet-Code/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -265,4 +268,8 @@ Leet-Code
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
