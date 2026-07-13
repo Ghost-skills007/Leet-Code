@@ -178,6 +178,7 @@ Leet-Code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankush850/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
@@ -221,6 +222,7 @@ Leet-Code
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -241,4 +243,12 @@ Leet-Code
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
