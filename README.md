@@ -27,6 +27,7 @@ Leet-Code
 | [0217-contains-duplicate](https://github.com/ankush850/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -219,6 +220,7 @@ Leet-Code
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Graph Theory
 |  |
@@ -275,4 +277,8 @@ Leet-Code
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
