@@ -112,6 +112,7 @@ Leet-Code
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
@@ -204,6 +205,7 @@ Leet-Code
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankush850/Leet-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
