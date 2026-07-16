@@ -47,6 +47,7 @@ Leet-Code
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
@@ -107,6 +108,7 @@ Leet-Code
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankush850/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
@@ -138,6 +140,7 @@ Leet-Code
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ Leet-Code
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -273,6 +277,7 @@ Leet-Code
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -289,6 +294,7 @@ Leet-Code
 | ------- |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
