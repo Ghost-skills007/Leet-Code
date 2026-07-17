@@ -83,6 +83,7 @@ Leet-Code
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush850/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankush850/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +110,7 @@ Leet-Code
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
@@ -149,6 +151,7 @@ Leet-Code
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush850/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
