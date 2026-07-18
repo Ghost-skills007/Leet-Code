@@ -49,6 +49,7 @@ Leet-Code
 | [1833-maximum-ice-cream-bars](https://github.com/ankush850/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankush850/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankush850/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -127,6 +128,7 @@ Leet-Code
 | [1323-maximum-69-number](https://github.com/ankush850/Leet-Code/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -335,6 +337,7 @@ Leet-Code
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
