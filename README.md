@@ -93,6 +93,7 @@ Leet-Code
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ankush850/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/ankush850/Leet-Code/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -216,6 +217,7 @@ Leet-Code
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
