@@ -190,6 +190,7 @@ Leet-Code
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankush850/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -288,6 +289,7 @@ Leet-Code
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 | Problem Name | Difficulty |
