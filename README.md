@@ -45,6 +45,7 @@ Leet-Code
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
@@ -366,6 +367,7 @@ Leet-Code
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ankush850/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
