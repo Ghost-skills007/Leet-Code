@@ -86,6 +86,8 @@ Leet-Code
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankush850/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -133,6 +135,7 @@ Leet-Code
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankush850/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
@@ -165,6 +168,8 @@ Leet-Code
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
@@ -322,6 +327,8 @@ Leet-Code
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
@@ -344,6 +351,7 @@ Leet-Code
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -400,6 +408,7 @@ Leet-Code
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ankush850/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
