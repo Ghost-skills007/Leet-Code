@@ -74,6 +74,7 @@ Leet-Code
 | [1390-four-divisors](https://github.com/Ankushsrawat/Leet-Code/tree/main/1390-four-divisors/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ankushsrawat/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
@@ -246,6 +247,7 @@ Leet-Code
 | [0643-maximum-average-subarray-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
@@ -386,6 +388,7 @@ Leet-Code
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush850/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
