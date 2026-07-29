@@ -201,6 +201,7 @@ Leet-Code
 | [0009-palindrome-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/ankush850/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
@@ -374,6 +375,7 @@ Leet-Code
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankush850/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankush850/Leet-Code/tree/master/0137-single-number-ii) |
