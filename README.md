@@ -61,6 +61,7 @@ Leet-Code
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ankush850/Leet-Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/ankush850/Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -277,6 +278,7 @@ Leet-Code
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ankush850/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Ankushsrawat/Leet-Code/tree/main/1089-duplicate-zeros/) | Easy |
@@ -369,6 +371,7 @@ Leet-Code
 | [0137-single-number-ii](https://github.com/ankush850/Leet-Code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -478,6 +481,7 @@ Leet-Code
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -525,6 +529,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
+| [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
