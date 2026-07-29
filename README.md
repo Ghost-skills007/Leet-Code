@@ -92,6 +92,7 @@ Leet-Code
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -176,6 +177,7 @@ Leet-Code
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -287,6 +289,7 @@ Leet-Code
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ankushsrawat/Leet-Code/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -339,6 +342,7 @@ Leet-Code
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
