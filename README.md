@@ -93,6 +93,7 @@ Leet-Code
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -351,6 +352,7 @@ Leet-Code
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -467,6 +469,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -506,6 +509,7 @@ Leet-Code
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
