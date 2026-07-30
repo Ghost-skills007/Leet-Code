@@ -61,6 +61,7 @@ Leet-Code
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ankush850/Leet-Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0896-monotonic-array/) | Easy |
@@ -77,10 +78,13 @@ Leet-Code
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/Ankushsrawat/Leet-Code/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankush850/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ankush850/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -93,6 +97,9 @@ Leet-Code
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,9 +121,11 @@ Leet-Code
 | [0014-longest-common-prefix](https://github.com/ankush850/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankush850/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankush850/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankush850/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ankushsrawat/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
@@ -129,6 +138,7 @@ Leet-Code
 | [0443-string-compression](https://github.com/Ankushsrawat/Leet-Code/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/ankush850/Leet-Code/tree/master/0551-student-attendance-record-i) |
+| [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -141,6 +151,7 @@ Leet-Code
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankush850/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankush850/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -154,7 +165,9 @@ Leet-Code
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush850/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ankush850/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
@@ -214,6 +227,7 @@ Leet-Code
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
@@ -224,8 +238,12 @@ Leet-Code
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Ankushsrawat/Leet-Code/tree/main/1390-four-divisors/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -249,9 +267,12 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush850/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -312,6 +333,7 @@ Leet-Code
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -348,6 +370,7 @@ Leet-Code
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -400,6 +423,8 @@ Leet-Code
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/Ankushsrawat/Leet-Code/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -428,6 +453,7 @@ Leet-Code
 | [1833-maximum-ice-cream-bars](https://github.com/ankush850/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +489,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -495,12 +522,15 @@ Leet-Code
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -520,6 +550,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -548,6 +579,7 @@ Leet-Code
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -573,4 +605,12 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
