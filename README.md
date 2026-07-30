@@ -61,6 +61,7 @@ Leet-Code
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ankush850/Leet-Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0896-monotonic-array/) | Easy |
@@ -265,6 +266,7 @@ Leet-Code
 | [0219-contains-duplicate-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -325,6 +327,7 @@ Leet-Code
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -414,6 +417,7 @@ Leet-Code
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -594,4 +598,12 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
