@@ -243,6 +243,7 @@ Leet-Code
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2928-distribute-candies-among-children-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
@@ -469,6 +470,7 @@ Leet-Code
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ankush850/Leet-Code/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
+| [2928-distribute-candies-among-children-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankush850/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -606,6 +608,7 @@ Leet-Code
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
