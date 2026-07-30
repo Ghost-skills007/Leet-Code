@@ -126,6 +126,7 @@ Leet-Code
 | [0058-length-of-last-word](https://github.com/ankush850/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Ankushsrawat/Leet-Code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ankushsrawat/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
@@ -417,6 +418,7 @@ Leet-Code
 | [0005-longest-palindromic-substring](https://github.com/ankush850/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ankushsrawat/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Ankushsrawat/Leet-Code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/ankush850/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankush850/Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush850/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
