@@ -52,6 +52,7 @@ Leet-Code
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ankushsrawat/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
@@ -237,6 +238,7 @@ Leet-Code
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
+| [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -268,6 +270,7 @@ Leet-Code
 | [0021-merge-two-sorted-lists](https://github.com/ankush850/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -435,6 +438,7 @@ Leet-Code
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankushsrawat/Leet-Code/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
@@ -589,6 +593,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
