@@ -249,6 +249,7 @@ Leet-Code
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
