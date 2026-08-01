@@ -143,6 +143,7 @@ Leet-Code
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ankushsrawat/Leet-Code/tree/main/0443-string-compression/) | Medium |
+| [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/ankush850/Leet-Code/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -248,6 +249,7 @@ Leet-Code
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
+| [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
