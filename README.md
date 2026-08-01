@@ -18,6 +18,7 @@ Leet-Code
 | [0035-search-insert-position](https://github.com/ankush850/Leet-Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
@@ -128,6 +129,7 @@ Leet-Code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankush850/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankush850/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
@@ -181,6 +183,7 @@ Leet-Code
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -371,6 +374,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ankush850/Leet-Code/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0088-merge-sorted-array) |
