@@ -18,6 +18,7 @@ Leet-Code
 | [0035-search-insert-position](https://github.com/ankush850/Leet-Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
@@ -64,6 +65,7 @@ Leet-Code
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
+| [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/ankush850/Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -128,6 +130,7 @@ Leet-Code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankush850/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankush850/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
@@ -143,6 +146,7 @@ Leet-Code
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ankushsrawat/Leet-Code/tree/main/0443-string-compression/) | Medium |
+| [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/ankush850/Leet-Code/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -180,6 +184,7 @@ Leet-Code
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -248,8 +253,12 @@ Leet-Code
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/ankush850/Leet-Code/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -367,6 +376,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ankush850/Leet-Code/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -457,6 +467,7 @@ Leet-Code
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankushsrawat/Leet-Code/tree/main/0790-domino-and-tromino-tiling/) | Medium |
+| [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
@@ -610,6 +621,7 @@ Leet-Code
 | ------- | ------- |
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
