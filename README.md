@@ -29,6 +29,7 @@ Leet-Code
 | [0118-pascals-triangle](https://github.com/ankush850/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankush850/Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush850/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Ankushsrawat/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/ankush850/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankush850/Leet-Code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
@@ -502,6 +503,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ankush850/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Ankushsrawat/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
