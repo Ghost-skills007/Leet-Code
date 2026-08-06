@@ -151,6 +151,7 @@ Leet-Code
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/Ghost-skills007/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/Ankushsrawat/Leet-Code/tree/main/0443-string-compression/) | Medium |
 | [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
@@ -260,6 +261,7 @@ Leet-Code
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/Ghost-skills007/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
@@ -591,6 +593,7 @@ Leet-Code
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Ghost-skills007/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
