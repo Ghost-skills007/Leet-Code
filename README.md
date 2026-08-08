@@ -236,6 +236,7 @@ Leet-Code
 | [0002-add-two-numbers](https://github.com/ankush850/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankush850/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ankush850/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankush850/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
@@ -445,6 +446,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush850/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
@@ -570,6 +572,7 @@ Leet-Code
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
@@ -718,4 +721,12 @@ Leet-Code
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankushsrawat/Leet-Code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
