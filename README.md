@@ -22,6 +22,7 @@ Leet-Code
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush850/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankushsrawat/Leet-Code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -470,6 +471,7 @@ Leet-Code
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/ankush850/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankush850/Leet-Code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
@@ -730,4 +732,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
