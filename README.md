@@ -183,6 +183,7 @@ Leet-Code
 | [2942-find-words-containing-character](https://github.com/Ankushsrawat/Leet-Code/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/3110-score-of-a-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankush850/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -232,6 +233,7 @@ Leet-Code
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
@@ -339,6 +341,7 @@ Leet-Code
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 | Problem Name | Difficulty |
