@@ -103,6 +103,7 @@ Leet-Code
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankush850/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
@@ -298,6 +299,7 @@ Leet-Code
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -479,6 +481,7 @@ Leet-Code
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -556,6 +559,7 @@ Leet-Code
 | [1323-maximum-69-number](https://github.com/ankush850/Leet-Code/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankush850/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankush850/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -688,6 +692,7 @@ Leet-Code
 | [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -767,10 +772,12 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -783,4 +790,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0164-maximum-gap/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
