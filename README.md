@@ -128,6 +128,7 @@ Leet-Code
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -248,6 +249,7 @@ Leet-Code
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
