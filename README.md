@@ -77,6 +77,7 @@ Leet-Code
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
@@ -569,6 +570,7 @@ Leet-Code
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
@@ -743,6 +745,7 @@ Leet-Code
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankushsrawat/Leet-Code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
