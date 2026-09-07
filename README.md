@@ -186,6 +186,7 @@ Leet-Code
 | [0709-to-lower-case](https://github.com/Ankushsrawat/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Ghost-skills007/Leet-Code/tree/main/0925-long-pressed-name/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
@@ -560,6 +561,7 @@ Leet-Code
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankushsrawat/Leet-Code/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
