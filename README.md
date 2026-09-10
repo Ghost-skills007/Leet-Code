@@ -591,6 +591,7 @@ Leet-Code
 | [0735-asteroid-collision](https://github.com/Ghost-skills007/Leet-Code/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -734,6 +735,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -773,6 +775,7 @@ Leet-Code
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankushsrawat/Leet-Code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -884,4 +887,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
