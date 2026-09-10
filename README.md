@@ -18,6 +18,7 @@ Leet-Code
 | [0033-search-in-rotated-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankush850/Leet-Code/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Ghost-skills007/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
@@ -225,6 +226,7 @@ Leet-Code
 | [0012-integer-to-roman](https://github.com/ankush850/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/Ghost-skills007/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
@@ -756,6 +758,7 @@ Leet-Code
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Ghost-skills007/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
