@@ -64,6 +64,7 @@ Leet-Code
 | [0414-third-maximum-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Ankushsrawat/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
@@ -240,6 +241,7 @@ Leet-Code
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
 | [0575-distribute-candies](https://github.com/Ghost-skills007/Leet-Code/tree/main/0575-distribute-candies/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -408,6 +410,7 @@ Leet-Code
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ankushsrawat/Leet-Code/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -867,4 +870,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/Ghost-skills007/Leet-Code/tree/main/0986-interval-list-intersections/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
 <!---LeetCode Topics End-->
