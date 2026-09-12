@@ -135,6 +135,7 @@ Leet-Code
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -454,6 +455,7 @@ Leet-Code
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -496,6 +498,7 @@ Leet-Code
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/3024-type-of-triangle/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
@@ -576,6 +579,7 @@ Leet-Code
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
