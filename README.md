@@ -83,6 +83,7 @@ Leet-Code
 | [0735-asteroid-collision](https://github.com/Ghost-skills007/Leet-Code/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0896-monotonic-array/) | Easy |
@@ -773,6 +774,7 @@ Leet-Code
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
