@@ -189,6 +189,7 @@ Leet-Code
 | [0504-base-7](https://github.com/Ankushsrawat/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/ankush850/Leet-Code/tree/master/0551-student-attendance-record-i) |
+| [0649-dota2-senate](https://github.com/Ghost-skills007/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Ankushsrawat/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
@@ -621,6 +622,7 @@ Leet-Code
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/Ghost-skills007/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
@@ -835,6 +837,7 @@ Leet-Code
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0649-dota2-senate](https://github.com/Ghost-skills007/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
