@@ -752,6 +752,7 @@ Leet-Code
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -834,6 +835,7 @@ Leet-Code
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -909,6 +911,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
