@@ -287,6 +287,7 @@ Leet-Code
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankush850/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Ghost-skills007/Leet-Code/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +370,7 @@ Leet-Code
 | [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Ghost-skills007/Leet-Code/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/0060-permutation-sequence/) | Hard |
+| [0206-reverse-linked-list](https://github.com/Ghost-skills007/Leet-Code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/Ghost-skills007/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
