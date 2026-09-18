@@ -602,6 +602,7 @@ Leet-Code
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -713,6 +714,7 @@ Leet-Code
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-skills007/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -762,6 +764,7 @@ Leet-Code
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-skills007/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
@@ -772,6 +775,7 @@ Leet-Code
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-skills007/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Number Theory
@@ -954,4 +958,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
