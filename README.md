@@ -714,6 +714,7 @@ Leet-Code
 | [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ghost-skills007/Leet-Code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -725,6 +726,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Ghost-skills007/Leet-Code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
@@ -765,6 +767,7 @@ Leet-Code
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ghost-skills007/Leet-Code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -777,6 +780,7 @@ Leet-Code
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ghost-skills007/Leet-Code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
