@@ -221,6 +221,7 @@ Leet-Code
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/3110-score-of-a-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Ghost-skills007/Leet-Code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankush850/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -755,6 +756,7 @@ Leet-Code
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ghost-skills007/Leet-Code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 | Problem Name | Difficulty |
