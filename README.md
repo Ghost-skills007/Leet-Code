@@ -92,6 +92,7 @@ Leet-Code
 | [0905-sort-array-by-parity](https://github.com/ankush850/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Ghost-skills007/Leet-Code/tree/main/0986-interval-list-intersections/) | Medium |
+| [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Ankushsrawat/Leet-Code/tree/main/1089-duplicate-zeros/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
@@ -746,6 +747,7 @@ Leet-Code
 | [0399-evaluate-division](https://github.com/Ghost-skills007/Leet-Code/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ghost-skills007/Leet-Code/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ghost-skills007/Leet-Code/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -860,6 +862,7 @@ Leet-Code
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0835-image-overlap/) | Medium |
+| [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
