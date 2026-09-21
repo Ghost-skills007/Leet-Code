@@ -118,6 +118,7 @@ Leet-Code
 | [1833-maximum-ice-cream-bars](https://github.com/ankush850/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankush850/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ghost-skills007/Leet-Code/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankush850/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
@@ -748,6 +749,7 @@ Leet-Code
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ghost-skills007/Leet-Code/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -862,6 +864,7 @@ Leet-Code
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ghost-skills007/Leet-Code/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
