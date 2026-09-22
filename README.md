@@ -51,6 +51,7 @@ Leet-Code
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankush850/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0220-contains-duplicate-iii/) | Hard |
@@ -954,6 +955,7 @@ Leet-Code
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0216-combination-sum-iii/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
