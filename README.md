@@ -281,6 +281,7 @@ Leet-Code
 | [2094-finding-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -720,6 +721,7 @@ Leet-Code
 | [0215-kth-largest-element-in-an-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -839,6 +841,7 @@ Leet-Code
 | [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -899,6 +902,7 @@ Leet-Code
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ghost-skills007/Leet-Code/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
