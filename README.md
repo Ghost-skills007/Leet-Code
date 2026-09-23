@@ -50,6 +50,7 @@ Leet-Code
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Ghost-skills007/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0216-combination-sum-iii/) | Medium |
@@ -627,6 +628,7 @@ Leet-Code
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush850/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Ghost-skills007/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/0435-non-overlapping-intervals/) | Medium |
