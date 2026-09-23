@@ -216,6 +216,7 @@ Leet-Code
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -638,6 +639,7 @@ Leet-Code
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Ghost-skills007/Leet-Code/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
@@ -1065,4 +1067,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ghost-skills007/Leet-Code/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
