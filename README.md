@@ -114,6 +114,7 @@ Leet-Code
 | [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankush850/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -277,6 +278,7 @@ Leet-Code
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ghost-skills007/Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ankushsrawat/Leet-Code/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -416,6 +418,7 @@ Leet-Code
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -491,6 +494,7 @@ Leet-Code
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -705,6 +709,7 @@ Leet-Code
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ghost-skills007/Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Graph Theory
