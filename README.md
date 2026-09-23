@@ -135,6 +135,7 @@ Leet-Code
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/Ghost-skills007/Leet-Code/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ankushsrawat/Leet-Code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -471,6 +472,7 @@ Leet-Code
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ghost-skills007/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/ankush850/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ghost-skills007/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -733,6 +735,7 @@ Leet-Code
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Ghost-skills007/Leet-Code/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankush850/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -802,6 +805,7 @@ Leet-Code
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
