@@ -1081,4 +1081,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
