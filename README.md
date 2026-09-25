@@ -25,6 +25,7 @@ Leet-Code
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
@@ -582,6 +583,7 @@ Leet-Code
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush850/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
@@ -630,6 +632,7 @@ Leet-Code
 | [0032-longest-valid-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ghost-skills007/Leet-Code/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
