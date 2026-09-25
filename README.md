@@ -20,6 +20,7 @@ Leet-Code
 | [0035-search-insert-position](https://github.com/ankush850/Leet-Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ghost-skills007/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
@@ -1007,6 +1008,7 @@ Leet-Code
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ghost-skills007/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
