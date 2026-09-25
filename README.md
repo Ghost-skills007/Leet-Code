@@ -220,6 +220,7 @@ Leet-Code
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -281,6 +282,7 @@ Leet-Code
 | [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
 | [0575-distribute-candies](https://github.com/Ghost-skills007/Leet-Code/tree/main/0575-distribute-candies/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankush850/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -546,6 +548,7 @@ Leet-Code
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ankush850/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/ankush850/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -678,6 +681,7 @@ Leet-Code
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ghost-skills007/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -796,6 +800,7 @@ Leet-Code
 | [0547-number-of-provinces](https://github.com/Ghost-skills007/Leet-Code/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ghost-skills007/Leet-Code/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -1002,6 +1007,7 @@ Leet-Code
 | [0052-n-queens-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0216-combination-sum-iii/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
