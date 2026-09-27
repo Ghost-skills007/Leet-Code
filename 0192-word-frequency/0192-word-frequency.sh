@@ -1,0 +1,1 @@
+perl -anE '$count{$_}++ for @F; END { say "$_ $count{$_}" for sort { $count{$b} <=> $count{$a} } keys %count }' words.txt
