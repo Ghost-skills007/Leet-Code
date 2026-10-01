@@ -1123,4 +1123,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Ghost-skills007/Leet-Code/tree/main/0127-word-ladder/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ghost-skills007/Leet-Code/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
