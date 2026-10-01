@@ -31,6 +31,7 @@ Leet-Code
 | [0054-spiral-matrix](https://github.com/Ghost-skills007/Leet-Code/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
@@ -650,6 +651,7 @@ Leet-Code
 | [0045-jump-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ghost-skills007/Leet-Code/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
@@ -946,6 +948,7 @@ Leet-Code
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ghost-skills007/Leet-Code/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0835-image-overlap/) | Medium |
