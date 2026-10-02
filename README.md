@@ -29,9 +29,12 @@ Leet-Code
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ghost-skills007/Leet-Code/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush850/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +56,7 @@ Leet-Code
 | [0164-maximum-gap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ghost-skills007/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
@@ -67,10 +71,12 @@ Leet-Code
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/Ghost-skills007/Leet-Code/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ghost-skills007/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0399-evaluate-division](https://github.com/Ghost-skills007/Leet-Code/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -80,6 +86,7 @@ Leet-Code
 | [0485-max-consecutive-ones](https://github.com/Ankushsrawat/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
+| [0502-ipo](https://github.com/Ghost-skills007/Leet-Code/tree/main/0502-ipo/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ghost-skills007/Leet-Code/tree/main/0575-distribute-candies/) | Easy |
@@ -211,6 +218,7 @@ Leet-Code
 | [0290-word-pattern](https://github.com/Ankushsrawat/Leet-Code/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/Ghost-skills007/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
 | [0399-evaluate-division](https://github.com/Ghost-skills007/Leet-Code/tree/main/0399-evaluate-division/) | Medium |
@@ -273,6 +281,7 @@ Leet-Code
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Ghost-skills007/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
@@ -288,6 +297,8 @@ Leet-Code
 | [0290-word-pattern](https://github.com/Ankushsrawat/Leet-Code/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ghost-skills007/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0383-ransom-note](https://github.com/Ghost-skills007/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0457-circular-array-loop](https://github.com/Ghost-skills007/Leet-Code/tree/main/0457-circular-array-loop/) | Medium |
@@ -362,6 +373,7 @@ Leet-Code
 | [0292-nim-game](https://github.com/ankush850/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ankush850/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Ghost-skills007/Leet-Code/tree/main/0342-power-of-four/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ghost-skills007/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ghost-skills007/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -471,6 +483,7 @@ Leet-Code
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -550,11 +563,13 @@ Leet-Code
 | [0229-majority-element-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ankush850/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Ghost-skills007/Leet-Code/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
@@ -603,6 +618,7 @@ Leet-Code
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0229-majority-element-ii/) | Medium |
+| [0383-ransom-note](https://github.com/Ghost-skills007/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -643,6 +659,8 @@ Leet-Code
 | [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ghost-skills007/Leet-Code/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
@@ -654,6 +672,7 @@ Leet-Code
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Ghost-skills007/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
@@ -707,11 +726,13 @@ Leet-Code
 | [0011-container-with-most-water](https://github.com/ankush850/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Ankushsrawat/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Ghost-skills007/Leet-Code/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Ghost-skills007/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
@@ -777,6 +798,8 @@ Leet-Code
 | [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ankushsrawat/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0502-ipo](https://github.com/Ghost-skills007/Leet-Code/tree/main/0502-ipo/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -843,6 +866,7 @@ Leet-Code
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
 | [0258-add-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0258-add-digits/) | Easy |
+| [0289-game-of-life](https://github.com/Ghost-skills007/Leet-Code/tree/main/0289-game-of-life/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ghost-skills007/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ankushsrawat/Leet-Code/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -902,7 +926,9 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/ankush850/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ghost-skills007/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -935,7 +961,10 @@ Leet-Code
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ghost-skills007/Leet-Code/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0289-game-of-life](https://github.com/Ghost-skills007/Leet-Code/tree/main/0289-game-of-life/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
@@ -1064,6 +1093,7 @@ Leet-Code
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -1078,6 +1108,7 @@ Leet-Code
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/Ghost-skills007/Leet-Code/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Ghost-skills007/Leet-Code/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Geometry
@@ -1117,4 +1148,12 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Ghost-skills007/Leet-Code/tree/main/0127-word-ladder/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ghost-skills007/Leet-Code/tree/main/0169-majority-element/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ghost-skills007/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
