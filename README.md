@@ -177,6 +177,7 @@ Leet-Code
 | [3524-find-x-value-of-array-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ghost-skills007/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3912-valid-elements-in-an-array](https://github.com/ankush850/Leet-Code/tree/master/3912-valid-elements-in-an-array) |
@@ -332,6 +333,7 @@ Leet-Code
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
@@ -618,6 +620,7 @@ Leet-Code
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -788,6 +791,7 @@ Leet-Code
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1012,6 +1016,7 @@ Leet-Code
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ghost-skills007/Leet-Code/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
