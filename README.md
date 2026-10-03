@@ -206,6 +206,7 @@ Leet-Code
 | [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankush850/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Ghost-skills007/Leet-Code/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Ghost-skills007/Leet-Code/tree/main/0072-edit-distance/) | Medium |
