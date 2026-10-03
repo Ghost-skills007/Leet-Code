@@ -32,6 +32,7 @@ Leet-Code
 | [0054-spiral-matrix](https://github.com/Ghost-skills007/Leet-Code/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ghost-skills007/Leet-Code/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
