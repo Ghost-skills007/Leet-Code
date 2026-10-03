@@ -183,6 +183,7 @@ Leet-Code
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3912-valid-elements-in-an-array](https://github.com/ankush850/Leet-Code/tree/master/3912-valid-elements-in-an-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +555,7 @@ Leet-Code
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -608,6 +610,7 @@ Leet-Code
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -710,6 +713,7 @@ Leet-Code
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
