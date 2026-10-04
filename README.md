@@ -25,6 +25,7 @@ Leet-Code
 | [0041-first-missing-positive](https://github.com/Ankushsrawat/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Ghost-skills007/Leet-Code/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
@@ -564,6 +565,7 @@ Leet-Code
 | [0015-3sum](https://github.com/ankush850/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ghost-skills007/Leet-Code/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankush850/Leet-Code/tree/master/0075-sort-colors) |
@@ -1080,6 +1082,7 @@ Leet-Code
 | [0039-combination-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Ghost-skills007/Leet-Code/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
