@@ -52,6 +52,7 @@ Leet-Code
 | [0135-candy](https://github.com/Ankushsrawat/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/ankush850/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankush850/Leet-Code/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/ankush850/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -300,6 +301,7 @@ Leet-Code
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Ghost-skills007/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
@@ -381,6 +383,7 @@ Leet-Code
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankush850/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/ankush850/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ankush850/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
@@ -1170,6 +1173,7 @@ Leet-Code
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0836-rectangle-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ghost-skills007/Leet-Code/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## DP on Trees
@@ -1215,10 +1219,12 @@ Leet-Code
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
