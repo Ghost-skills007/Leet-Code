@@ -79,6 +79,7 @@ Leet-Code
 | [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ghost-skills007/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0399-evaluate-division](https://github.com/Ghost-skills007/Leet-Code/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
@@ -547,6 +548,7 @@ Leet-Code
 | [0268-missing-number](https://github.com/ankush850/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0374-guess-number-higher-or-lower](https://github.com/Ghost-skills007/Leet-Code/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ankush850/Leet-Code/tree/master/0633-sum-of-square-numbers) |
@@ -590,6 +592,7 @@ Leet-Code
 | [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/ankush850/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0414-third-maximum-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ankush850/Leet-Code/tree/master/0455-assign-cookies) |
@@ -704,6 +707,7 @@ Leet-Code
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Ghost-skills007/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0338-counting-bits/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0392-is-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ankushsrawat/Leet-Code/tree/main/0486-predict-the-winner/) | Medium |
@@ -1212,4 +1216,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
 <!---LeetCode Topics End-->
