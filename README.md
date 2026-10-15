@@ -166,6 +166,7 @@ Leet-Code
 | [2542-maximum-subsequence-score](https://github.com/Ghost-skills007/Leet-Code/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ghost-skills007/Leet-Code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ankushsrawat/Leet-Code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ankushsrawat/Leet-Code/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
@@ -340,6 +341,7 @@ Leet-Code
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -1057,6 +1059,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ghost-skills007/Leet-Code/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
@@ -1232,4 +1235,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
