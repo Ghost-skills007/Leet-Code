@@ -1246,4 +1246,8 @@ Leet-Code
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/Ghost-skills007/Leet-Code/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
