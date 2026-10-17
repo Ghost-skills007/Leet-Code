@@ -230,6 +230,7 @@ Leet-Code
 | [0132-palindrome-partitioning-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Ghost-skills007/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ankush850/Leet-Code/tree/master/0242-valid-anagram) |
@@ -309,6 +310,7 @@ Leet-Code
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Ghost-skills007/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankush850/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
