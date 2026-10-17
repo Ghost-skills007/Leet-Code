@@ -44,6 +44,7 @@ Leet-Code
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankushsrawat/Leet-Code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ghost-skills007/Leet-Code/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ankush850/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankush850/Leet-Code/tree/master/0119-pascals-triangle-ii) |
@@ -123,6 +124,7 @@ Leet-Code
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ankush850/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1390-four-divisors](https://github.com/Ankushsrawat/Leet-Code/tree/main/1390-four-divisors/) | Medium |
@@ -166,6 +168,8 @@ Leet-Code
 | [2542-maximum-subsequence-score](https://github.com/Ghost-skills007/Leet-Code/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ghost-skills007/Leet-Code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ankushsrawat/Leet-Code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2942-find-words-containing-character](https://github.com/Ankushsrawat/Leet-Code/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
@@ -184,6 +188,7 @@ Leet-Code
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ghost-skills007/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -226,6 +231,7 @@ Leet-Code
 | [0132-palindrome-partitioning-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Ghost-skills007/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ankush850/Leet-Code/tree/master/0242-valid-anagram) |
@@ -299,12 +305,14 @@ Leet-Code
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ankushsrawat/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ghost-skills007/Leet-Code/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Ghost-skills007/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankush850/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Ghost-skills007/Leet-Code/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush850/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ankush850/Leet-Code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Ghost-skills007/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankush850/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -324,6 +332,7 @@ Leet-Code
 | [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankush850/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush850/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankushsrawat/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -340,6 +349,8 @@ Leet-Code
 | [2248-intersection-of-multiple-arrays](https://github.com/Ankushsrawat/Leet-Code/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankushsrawat/Leet-Code/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -347,6 +358,7 @@ Leet-Code
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -630,6 +642,7 @@ Leet-Code
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -645,6 +658,7 @@ Leet-Code
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush850/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ghost-skills007/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ghost-skills007/Leet-Code/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
@@ -896,6 +910,7 @@ Leet-Code
 | [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1345-jump-game-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/1345-jump-game-iv/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ghost-skills007/Leet-Code/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -941,6 +956,7 @@ Leet-Code
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ghost-skills007/Leet-Code/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ghost-skills007/Leet-Code/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -957,6 +973,7 @@ Leet-Code
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ghost-skills007/Leet-Code/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ghost-skills007/Leet-Code/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -1057,6 +1074,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ghost-skills007/Leet-Code/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
@@ -1232,4 +1251,13 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0354-russian-doll-envelopes/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/Ghost-skills007/Leet-Code/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
