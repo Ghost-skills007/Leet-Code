@@ -35,6 +35,7 @@ Leet-Code
 | [0056-merge-intervals](https://github.com/ankush850/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ghost-skills007/Leet-Code/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Ghost-skills007/Leet-Code/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -122,6 +123,7 @@ Leet-Code
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Ankushsrawat/Leet-Code/tree/main/1089-duplicate-zeros/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ghost-skills007/Leet-Code/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ankush850/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/1345-jump-game-iv/) | Hard |
@@ -137,6 +139,7 @@ Leet-Code
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Ankushsrawat/Leet-Code/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -177,6 +180,7 @@ Leet-Code
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -194,7 +198,9 @@ Leet-Code
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3912-valid-elements-in-an-array](https://github.com/ankush850/Leet-Code/tree/master/3912-valid-elements-in-an-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ghost-skills007/Leet-Code/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## String
@@ -428,6 +434,7 @@ Leet-Code
 | [1486-xor-operation-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ghost-skills007/Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1927-sum-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/1927-sum-game/) | Medium |
@@ -445,6 +452,7 @@ Leet-Code
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ghost-skills007/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -458,6 +466,7 @@ Leet-Code
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ghost-skills007/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankush850/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -646,6 +655,7 @@ Leet-Code
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -663,6 +673,7 @@ Leet-Code
 | [0169-majority-element](https://github.com/ankush850/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankush850/Leet-Code/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ghost-skills007/Leet-Code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -713,6 +724,7 @@ Leet-Code
 | [0053-maximum-subarray](https://github.com/Ghost-skills007/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ghost-skills007/Leet-Code/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ghost-skills007/Leet-Code/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
@@ -748,6 +760,7 @@ Leet-Code
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ghost-skills007/Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ghost-skills007/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -834,6 +847,7 @@ Leet-Code
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankush850/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ankush850/Leet-Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -892,6 +906,7 @@ Leet-Code
 | [0841-keys-and-rooms](https://github.com/Ghost-skills007/Leet-Code/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Ghost-skills007/Leet-Code/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ghost-skills007/Leet-Code/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -910,6 +925,7 @@ Leet-Code
 | [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ghost-skills007/Leet-Code/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ghost-skills007/Leet-Code/tree/main/1345-jump-game-iv/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -921,6 +937,8 @@ Leet-Code
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Ghost-skills007/Leet-Code/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ghost-skills007/Leet-Code/tree/main/0547-number-of-provinces/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ghost-skills007/Leet-Code/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
@@ -967,6 +985,7 @@ Leet-Code
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-skills007/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -983,6 +1002,7 @@ Leet-Code
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-skills007/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -1009,6 +1029,7 @@ Leet-Code
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Ghost-skills007/Leet-Code/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1034,12 +1055,14 @@ Leet-Code
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ghost-skills007/Leet-Code/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ghost-skills007/Leet-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0289-game-of-life](https://github.com/Ghost-skills007/Leet-Code/tree/main/0289-game-of-life/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ghost-skills007/Leet-Code/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ghost-skills007/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ghost-skills007/Leet-Code/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -1059,6 +1082,7 @@ Leet-Code
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush850/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1082,6 +1106,7 @@ Leet-Code
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ghost-skills007/Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -1260,4 +1285,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/Ghost-skills007/Leet-Code/tree/main/0185-department-top-three-salaries/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
