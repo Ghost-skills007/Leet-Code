@@ -193,6 +193,7 @@ Leet-Code
 | [3524-find-x-value-of-array-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-skills007/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ghost-skills007/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -913,6 +914,7 @@ Leet-Code
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-skills007/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-skills007/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -932,6 +934,7 @@ Leet-Code
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ghost-skills007/Leet-Code/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-skills007/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -941,6 +944,7 @@ Leet-Code
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankush850/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankush850/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-skills007/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1068,6 +1072,7 @@ Leet-Code
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankushsrawat/Leet-Code/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ghost-skills007/Leet-Code/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-skills007/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
