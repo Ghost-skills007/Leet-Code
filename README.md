@@ -478,6 +478,7 @@ Leet-Code
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ghost-skills007/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankush850/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ghost-skills007/Leet-Code/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ankush850/Leet-Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -849,6 +850,7 @@ Leet-Code
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ghost-skills007/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ghost-skills007/Leet-Code/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
